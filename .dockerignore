@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+.pytest_cache/
+models/*.joblib
+models/*.json
+*.db
+.DS_Store
+.git
+tests/
+reports/
